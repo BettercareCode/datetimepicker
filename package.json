@@ -1,5 +1,5 @@
 {
-  "name": "@bettercare/datetimepicker",
+  "name": "date-time-picker-bettercare",
   "version": "1.0.0",
   "description": "DateTimePicker component for React Native",
   "main": "./src/index.js",
