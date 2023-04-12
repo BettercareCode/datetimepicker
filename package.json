@@ -1,6 +1,6 @@
 {
-  "name": "@react-native-community/datetimepicker",
-  "version": "7.0.1",
+  "name": "@bettercare/datetimepicker",
+  "version": "1.0.0",
   "description": "DateTimePicker component for React Native",
   "main": "./src/index.js",
   "types": "src/index.d.ts",
@@ -43,7 +43,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/react-native-community/datetimepicker.git"
+    "url": "git+https://github.com/BettercareCode/datetimepicker.git"
   },
   "keywords": [
     "react-native-component",
@@ -65,7 +65,7 @@
   "bugs": {
     "url": "https://github.com/react-native-community/datetimepicker/issues"
   },
-  "homepage": "https://github.com/react-native-community/datetimepicker#readme",
+  "homepage": "https://github.com/BettercareCode/datetimepicker#readme",
   "devDependencies": {
     "@babel/core": "^7.12.9",
     "@babel/preset-env": "^7.14.0",
